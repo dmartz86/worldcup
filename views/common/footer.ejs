@@ -1,0 +1,27 @@
+    <div >
+      <div class="row">
+        <div class="col-md-12">
+          <br>
+          <div class="clearfix"></div>
+          <hr>
+          <div class="col-md-12 text-center">
+            <p><strong>This is an alpha version</strong>
+            <br>
+              <a href="//bootply.com">Thanks to: @Bootply for this theme</a>
+            </p>
+          </div>
+          <hr>
+        </div>
+      </div>
+    </div>
+    
+    <% js.forEach(function(script){ %>
+    <script src="<%- script %>"></script>
+    <% }) %>
+    <% if (api) { %>
+    <script>
+      var API = '<%= API %>'
+    </script>
+    <% } %>
+  </body>
+</html>

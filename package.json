@@ -1,0 +1,25 @@
+{
+  "name": "worldcup",
+  "version": "0.0.1",
+  "author": "Daniel Martinez",
+  "contributors": [
+    {
+      "name": "Daniel Martinez",
+      "email": "dmartz86@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "express": "3.4.4",
+    "ejs": "0.8.3",
+    "less-middleware": "0.1.9",
+    "mongodb": "1.3.19",
+    "request": "2.20.0",
+    "qs": "0.6.1",
+    "oauth-sign": "0.3.0",
+    "async": "0.2.9",
+		"mongoskin": "0.6.0"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
