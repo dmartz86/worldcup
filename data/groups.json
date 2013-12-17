@@ -1,0 +1,178 @@
+{
+	A : [
+		{
+			name: 'Brasil',
+			abbr: 'BRA',
+			flag:''
+		},
+		{
+			name: 'Croacia',
+			abbr: 'HRV',
+			flag:''
+		},
+		{
+			name: 'México',
+			abbr: 'MEX',
+			flag:''
+		},
+		{
+			name: 'Camerún',
+			abbr: 'CMR',
+			flag:''
+		}
+	],
+	B : [
+		{
+			name: 'España',
+			abbr: 'ESP',
+			flag:''
+		},
+		{
+			name: 'Países Bajos',
+			abbr: 'NLD',
+			flag:''
+		},
+		{
+			name: 'Chile',
+			abbr: 'CHL',
+			flag:''
+		},
+		{
+			name: 'Australia',
+			abbr: 'AUS',
+			flag:''
+		}
+	],
+	C : [
+		{
+			name: 'Colombia',
+			abbr: 'COL',
+			flag:''
+		},
+		{
+			name: 'Grecia',
+			abbr: 'GRC',
+			flag:''
+		},
+		{
+			name: 'Costa de Marfil',
+			abbr: 'CIV',
+			flag:''
+		},
+		{
+			name: 'Japón',
+			abbr: 'JPN',
+			flag:''
+		}
+	],
+	D : [
+		{
+			name: 'Uruguay',
+			abbr: 'URY',
+			flag:''
+		},
+		{
+			name: 'Costa Rica',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Inglaterra',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Italia',
+			abbr: '',
+			flag:''
+		}
+	],
+	E : [
+		{
+			name: 'Suiza',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Ecuador',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Francia',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Honduras',
+			abbr: '',
+			flag:''
+		}
+	],
+	F : [
+		{
+			name: 'Argentina',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Bosnia y Herzegovina',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Irán',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Nigeria',
+			abbr: '',
+			flag:''
+		}
+	],
+	G: [
+		{
+			name: 'Alemania',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Portugal',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Ghana',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Estados Unidos',
+			abbr: '',
+			flag:''
+		}
+	],
+	H: [
+		{
+			name: 'Bélgica',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Argelia',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Rusia',
+			abbr: '',
+			flag:''
+		},
+		{
+			name: 'Corea del Sur',
+			abbr: '',
+			flag:''
+		}
+	]
+}
